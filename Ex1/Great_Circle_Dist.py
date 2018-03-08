@@ -1,9 +1,13 @@
+# Author Sipln
+# Writing a REST-sprited webservice for calculating the great-circle distance between two point with their given geographic coordinates
+# in Python 3 .
+
 import math
 
 from flask import Flask, request, jsonify
 app = Flask(__name__)
 
-# Use the Harversine formula to calculate the great-circle distance between two point
+# Use the Harversine formula to calculate the great-circle distance between two points
 # 		Haversine formula:
 # 			a = sin²(Δφ/2) + cos φ1 ⋅ cos φ2 ⋅ sin²(Δλ/2)
 # 			c = 2 ⋅ atan2( √a, √(1−a) )
