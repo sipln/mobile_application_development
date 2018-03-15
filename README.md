@@ -1,4 +1,5 @@
 # mobileapps
+
 This repository is used for My "Mobile App Development" subject.
 
 The "RevGeo.py" file is my solution to the part 1 of the "Ex1".
@@ -14,13 +15,13 @@ GUIDE TO RUN
 - The following packages must be installed : flask ( For running web server), requests ( For making a request to server).
 
 
-*Part1
+*Part1 - Use a web service.
 
  - Run command "python3 RevGeo.py"
  - Then give a input paired value like "Latitude, Longitude: 10.817996728 106.651164062", then press Enter.
  
  
- *Part2:
+ *Part2 - Write a Rest style-based web service.
  
  - Run command "python3 Great_Circle_Dist.py" on a terminal ( or a cmd) for starting server and the web service.
  - Run command "python3 Test.py" on another terminal ( or a cmd) and give required inputs.
