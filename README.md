@@ -11,7 +11,7 @@ The "Great_Circle_Dist.py" file is my solution to the part 2 of the "Ex1" and th
 ## GUIDE TO RUN
 
 [*Link to Screenshots*](https://github.com/sipln/mobile_application_development/tree/master/Ex1/Screenshots).
-![](/Ex1/Screenshots/Part1/01.png)
+
 
 **Prerequisites:**
 - Python 3. 
@@ -22,12 +22,14 @@ The "Great_Circle_Dist.py" file is my solution to the part 2 of the "Ex1" and th
 
  - Run command "python3 RevGeo.py"
  - Then give a input paired value like "Latitude, Longitude: 10.817996728 106.651164062", then press Enter.
+ ![](/Ex1/Screenshots/Part1/01.png)
  
  
  **Part2 - Write a Rest style-based web service.**
  
  - Run command "python3 Great_Circle_Dist.py" on a terminal ( or a cmd) for starting server and the web service.
- - Run command "python3 Test.py" on another terminal ( or a cmd) and give required inputs.
+ - Run command "python3 Test.py" on another terminal ( or a cmd) and give required inputs or can directly type url on a web brower.
+![](/Ex1/Screenshots/Part2/01.png) 
  
     **_E.g:_**
 ```
