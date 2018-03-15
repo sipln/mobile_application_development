@@ -28,7 +28,7 @@ Link *https://github.com/sipln/mobile_application_development/tree/master/Ex1/Sc
  - Run command "python3 Great_Circle_Dist.py" on a terminal ( or a cmd) for starting server and the web service.
  - Run command "python3 Test.py" on another terminal ( or a cmd) and give required inputs.
  
-    ***E.g:**
+    * **E.g:**
     
       "Latitude, Longitude A: 21.028511  105.804817
       
