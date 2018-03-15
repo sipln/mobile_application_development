@@ -30,9 +30,10 @@ Link *https://github.com/sipln/mobile_application_development/tree/master/Ex1/Sc
  
     **_E.g:_**
     
-          "Latitude, Longitude A: 21.028511  105.804817
+          Latitude, Longitude A: 21.028511  105.804817
       
-          "Latitude, Longitude B: 10.762622  106.660172
+          Latitude, Longitude B: 10.762622  106.660172
+          
            
  - Press Enter and get result ^^^.
     
