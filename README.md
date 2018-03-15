@@ -11,6 +11,7 @@ The "Great_Circle_Dist.py" file is my solution to the part 2 of the "Ex1" and th
 ## GUIDE TO RUN
 
 [*Link to Screenshots*](https://github.com/sipln/mobile_application_development/tree/master/Ex1/Screenshots).
+![](/Ex1/Screenshots/Part1/01.png)
 
 **Prerequisites:**
 - Python 3. 
