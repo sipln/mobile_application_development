@@ -21,7 +21,11 @@ The "Great_Circle_Dist.py" file is my solution to the part 2 of the "Ex1" and th
 **Part1 - Use a web service.**
 
  - Run command "python3 RevGeo.py"
- - Then give a input paired value like "Latitude, Longitude: 10.817996728 106.651164062", then press Enter.
+ - Then give a input paired value like 
+```
+Latitude, Longitude: 10.817996728 106.651164062"
+``` 
+ , then press Enter.
  ![](/Ex1/Screenshots/Part1/01.png)
  
  
