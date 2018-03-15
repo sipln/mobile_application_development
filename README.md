@@ -30,14 +30,16 @@ The "Great_Circle_Dist.py" file is my solution to the part 2 of the "Ex1" and th
  - Run command "python3 Great_Circle_Dist.py" on a terminal ( or a cmd) for starting server and the web service.
  ![](/Ex1/Screenshots/Part2/01.png) 
  - Run command "python3 Test.py" on another terminal ( or a cmd) and give required inputs or can directly type url on a web brower.
-![](/Ex1/Screenshots/Part2/02.png)
-![](/Ex1/Screenshots/Part2/03.png) 
- 
-    **_E.g:_**
+     **_E.g:_**
 ```
 Latitude, Longitude A: 21.028511  105.804817   
 Latitude, Longitude B: 10.762622  106.660172
 ```
            
  - Press Enter and get result.
+![](/Ex1/Screenshots/Part2/02.png)
+![](/Ex1/Screenshots/Part2/03.png) 
+![](/Ex1/Screenshots/Part2/04.png) 
+ 
+
     
